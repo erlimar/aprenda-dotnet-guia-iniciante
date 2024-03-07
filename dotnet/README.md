@@ -7,3 +7,4 @@ Pretende ajudar iniciantes que sabem pouco ou nada de programação a iniciar no
 Segue abaixo os dias já disponíveis para sua caminhada
 
 * [Dia 001 - Conheça a plataforma .NET](dia-001.md)
+* [Dia 002 - Não tenha medo, seja um solucionador de problemas](dia-002.md)

@@ -9,3 +9,4 @@ nível razoável para entrar no mercado de trabalho.
 Segue abaixo os dias já disponíveis para sua caminhada:
 
 * [Dia 001 - Conheça a plataforma NodeJS](dia-001.md)
+* [Dia 002 - Não tenha medo, seja um solucionador de problemas](dia-002.md)
